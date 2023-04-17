@@ -22,7 +22,7 @@ logger = setup_logger('my_logger', 'lib/log.xml', level="INFO")
 class Config():
 
     def __init__(self):
-        tree = ET.parse('/Users/alper/PycharmProjects/WebScraper/config.xml')
+        tree = ET.parse('config.xml')
         root = tree.getroot()
 
         self.max_product = int(root.find('limits/max_product').text)
