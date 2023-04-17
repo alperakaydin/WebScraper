@@ -1,0 +1,260 @@
+2023-04-15 23:52:22,741 : SCRAPER:PY  : https://www.bestsdwaywholesale.co.uk/product/440775-6 için scraper bulunmamakta..
+2023-04-15 23:52:23,687 : SCRAPER:PY  : HTTP Hatası: 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/803202-2. URL: https://www.bestwaywholesale.co.uk/product/803202-2, Proxyler: None
+2023-04-15 23:52:24,497 : SCRAPER:PY  : HTTP Hatası: 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/341515-1. URL: https://www.bestwaywholesale.co.uk/product/341515-1, Proxyler: None
+2023-04-15 23:52:27,928 : SCRAPER:PY  : https://www.argos.couk/product/1021284 için scraper bulunmamakta..
+2023-04-15 23:52:53,043 : SCRAPER:PY  : asdasdasd için scraper bulunmamakta..
+2023-04-16 13:58:50,852 : SCRAPER:PY  : https://www.bestsdwaywholesale.co.uk/product/440775-6 için scraper bulunmamakta..
+2023-04-16 13:58:56,376 : SCRAPER:PY  : https://www.argos.couk/product/1021284 için scraper bulunmamakta..
+2023-04-16 13:59:23,427 : SCRAPER:PY  : asdasdasd için scraper bulunmamakta..
+2023-04-16 14:06:32,629 : SCRAPER:PY  : https://www.bestsdwaywholesale.co.uk/product/440775-6 için scraper bulunmamakta..
+2023-04-16 14:06:38,020 : SCRAPER:PY  : https://www.argos.couk/product/1021284 için scraper bulunmamakta..
+2023-04-16 14:07:04,544 : SCRAPER:PY  : asdasdasd için scraper bulunmamakta..
+2023-04-16 14:08:18,033 : SCRAPER:PY  : https://www.bestsdwaywholesale.co.uk/product/440775-6 için scraper bulunmamakta..
+2023-04-16 14:08:23,027 : SCRAPER:PY  : https://www.argos.couk/product/1021284 için scraper bulunmamakta..
+2023-04-16 14:08:45,080 : SCRAPER:PY  : https://www.bestsdwaywholesale.co.uk/product/440775-6 için scraper bulunmamakta..
+2023-04-16 14:08:50,015 : SCRAPER:PY  : https://www.argos.couk/product/1021284 için scraper bulunmamakta..
+2023-04-16 14:09:15,520 : SCRAPER:PY  : asdasdasd için scraper bulunmamakta..
+2023-04-16 14:09:36,395 : SCRAPER:PY  : https://www.bestsdwaywholesale.co.uk/product/440775-6 için scraper bulunmamakta..
+2023-04-16 14:09:42,224 : SCRAPER:PY  : https://www.argos.couk/product/1021284 için scraper bulunmamakta..
+2023-04-16 14:10:08,335 : SCRAPER:PY  : asdasdasd için scraper bulunmamakta..
+2023-04-16 14:11:39,303 : SCRAPER:PY  : https://www.bestsdwaywholesale.co.uk/product/440775-6 için scraper bulunmamakta..
+2023-04-16 14:11:44,759 : SCRAPER:PY  : https://www.argos.couk/product/1021284 için scraper bulunmamakta..
+2023-04-16 14:12:10,528 : SCRAPER:PY  : asdasdasd için scraper bulunmamakta..
+2023-04-16 14:13:46,212 : SCRAPER:PY  : https://www.bestsdwaywholesale.co.uk/product/440775-6 için scraper bulunmamakta..
+2023-04-16 14:15:30,168 : SCRAPER:PY  : https://www.bestsdwaywholesale.co.uk/product/440775-6 için scraper bulunmamakta..
+2023-04-16 14:15:38,860 : SCRAPER:PY  : Bestwaywholesale BeautifulSoup Hatası: 'NoneType' object has no attribute 'text'. URL: https://www.bestwaywholesale.co.uk/product/803202-2
+2023-04-16 14:15:55,349 : SCRAPER:PY  : Bestwaywholesale BeautifulSoup Hatası: 'NoneType' object has no attribute 'text'. URL: https://www.bestwaywholesale.co.uk/product/341515-1
+2023-04-16 14:16:00,499 : SCRAPER:PY  : https://www.argos.couk/product/1021284 için scraper bulunmamakta..
+2023-04-16 14:16:39,434 : SCRAPER:PY  : asdasdasd için scraper bulunmamakta..
+2023-04-16 14:17:40,165 : SCRAPER:PY  : https://www.bestsdwaywholesale.co.uk/product/440775-6 için scraper bulunmamakta..
+2023-04-16 14:17:40,980 : SCRAPER:PY  : Bestwaywholesale BeautifulSoup Hatası: 'NoneType' object has no attribute 'text'. URL: https://www.bestwaywholesale.co.uk/product/803202-2
+2023-04-16 14:17:41,875 : SCRAPER:PY  : Bestwaywholesale BeautifulSoup Hatası: 'NoneType' object has no attribute 'text'. URL: https://www.bestwaywholesale.co.uk/product/341515-1
+2023-04-16 14:17:45,221 : SCRAPER:PY  : https://www.argos.couk/product/1021284 için scraper bulunmamakta..
+2023-04-16 14:18:42,562 : SCRAPER:PY  : https://www.bestsdwaywholesale.co.uk/product/440775-6 için scraper bulunmamakta..
+2023-04-16 14:18:43,474 : SCRAPER:PY  : Bestwaywholesale BeautifulSoup Hatası: 'NoneType' object has no attribute 'text'. URL: https://www.bestwaywholesale.co.uk/product/803202-2
+2023-04-16 14:18:44,310 : SCRAPER:PY  : Bestwaywholesale BeautifulSoup Hatası: 'NoneType' object has no attribute 'text'. URL: https://www.bestwaywholesale.co.uk/product/341515-1
+2023-04-16 14:18:47,979 : SCRAPER:PY  : https://www.argos.couk/product/1021284 için scraper bulunmamakta..
+2023-04-16 14:19:13,745 : SCRAPER:PY  : asdasdasd için scraper bulunmamakta..
+2023-04-16 14:23:45,786 : SCRAPER:PY  : https://www.bestsdwaywholesale.co.uk/product/440775-6 için scraper bulunmamakta..
+2023-04-16 14:23:48,226 : SCRAPER:PY  : Bestwaywholesale BeautifulSoup Hatası: 'NoneType' object has no attribute 'text'. URL: https://www.bestwaywholesale.co.uk/product/803202-2
+2023-04-16 14:23:49,043 : SCRAPER:PY  : Bestwaywholesale BeautifulSoup Hatası: 'NoneType' object has no attribute 'text'. URL: https://www.bestwaywholesale.co.uk/product/341515-1
+2023-04-16 14:23:52,587 : SCRAPER:PY  : https://www.argos.couk/product/1021284 için scraper bulunmamakta..
+2023-04-16 14:24:18,150 : SCRAPER:PY  : asdasdasd için scraper bulunmamakta..
+2023-04-16 14:33:01,238 : SCRAPER:PY  : https://www.bestsdwaywholesale.co.uk/product/440775-6 için scraper bulunmamakta..
+2023-04-16 14:33:02,467 : SCRAPER:PY  : HTTP Hatası: 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/803202-2. Proxy: None
+2023-04-16 14:33:02,467 : SCRAPER:PY  : Bestwaywholesale BeautifulSoup Hatası: 'NoneType' object has no attribute 'text'. URL: https://www.bestwaywholesale.co.uk/product/803202-2
+2023-04-16 14:33:03,462 : SCRAPER:PY  : HTTP Hatası: 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/341515-1. Proxy: None
+2023-04-16 14:33:03,463 : SCRAPER:PY  : Bestwaywholesale BeautifulSoup Hatası: 'NoneType' object has no attribute 'text'. URL: https://www.bestwaywholesale.co.uk/product/341515-1
+2023-04-16 14:33:07,375 : SCRAPER:PY  : https://www.argos.couk/product/1021284 için scraper bulunmamakta..
+2023-04-16 14:33:34,217 : SCRAPER:PY  : asdasdasd için scraper bulunmamakta..
+2023-04-16 15:33:03,756 : SCRAPER:PY  : https://www.bestsdwaywholesale.co.uk/product/440775-6 için scraper bulunmamakta..
+2023-04-16 15:33:05,947 : SCRAPER:PY  : HTTP Hatası: 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/803202-2. Proxy: None
+2023-04-16 15:33:05,948 : SCRAPER:PY  : Bestwaywholesale BeautifulSoup Hatası: 'NoneType' object has no attribute 'text'. URL: https://www.bestwaywholesale.co.uk/product/803202-2
+2023-04-16 15:33:06,799 : SCRAPER:PY  : HTTP Hatası: 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/341515-1. Proxy: None
+2023-04-16 15:33:06,800 : SCRAPER:PY  : Bestwaywholesale BeautifulSoup Hatası: 'NoneType' object has no attribute 'text'. URL: https://www.bestwaywholesale.co.uk/product/341515-1
+2023-04-16 15:33:10,395 : SCRAPER:PY  : https://www.argos.couk/product/1021284 için scraper bulunmamakta..
+2023-04-16 15:33:37,412 : SCRAPER:PY  : asdasdasd için scraper bulunmamakta..
+2023-04-16 16:37:14,410 : SCRAPER:PY  : https://www.bestsdwaywholesale.co.uk/product/440775-6 için scraper bulunmamakta..
+2023-04-16 17:16:59,464 : SCRAPER:PY  : Bağlantı Hatası: HTTPSConnectionPool(host='www.bestwaywholesale.co.uk', port=443): Max retries exceeded with url: /product/803202-2 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1181cc370>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known')).  Proxy: None
+2023-04-16 17:16:59,465 : SCRAPER:PY  : Bestwaywholesale BeautifulSoup Hatası: 'NoneType' object has no attribute 'text'. URL: https://www.bestwaywholesale.co.uk/product/803202-2
+2023-04-16 17:16:59,480 : SCRAPER:PY  : Bağlantı Hatası: HTTPSConnectionPool(host='www.bestwaywholesale.co.uk', port=443): Max retries exceeded with url: /product/341515-1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1181ccc10>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known')).  Proxy: None
+2023-04-16 17:16:59,481 : SCRAPER:PY  : Bestwaywholesale BeautifulSoup Hatası: 'NoneType' object has no attribute 'text'. URL: https://www.bestwaywholesale.co.uk/product/341515-1
+2023-04-16 17:16:59,486 : SCRAPER:PY  : Bağlantı Hatası: HTTPSConnectionPool(host='www.bestwaywholesale.co.uk', port=443): Max retries exceeded with url: /product/366890-1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1181cc2b0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known')).  Proxy: None
+2023-04-16 17:16:59,486 : SCRAPER:PY  : Bestwaywholesale BeautifulSoup Hatası: 'NoneType' object has no attribute 'text'. URL: https://www.bestwaywholesale.co.uk/product/366890-1
+2023-04-16 17:16:59,493 : SCRAPER:PY  : Bağlantı Hatası: HTTPSConnectionPool(host='www.argos.co.uk', port=443): Max retries exceeded with url: /product/9484799 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1181cc6a0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known')).  Proxy: None
+2023-04-16 17:16:59,493 : SCRAPER:PY  : Argos BeautifulSoup Hatası: 'NoneType' object has no attribute 'text'. URL: https://www.argos.co.uk/product/9484799
+2023-04-16 17:16:59,493 : SCRAPER:PY  : https://www.argos.couk/product/1021284 için scraper bulunmamakta..
+2023-04-16 17:16:59,500 : SCRAPER:PY  : Bağlantı Hatası: HTTPSConnectionPool(host='www.argos.co.uk', port=443): Max retries exceeded with url: /product/1021284 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1181cc550>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known')).  Proxy: None
+2023-04-16 17:16:59,500 : SCRAPER:PY  : Argos BeautifulSoup Hatası: 'NoneType' object has no attribute 'text'. URL: https://www.argos.co.uk/product/1021284
+2023-04-16 17:16:59,505 : SCRAPER:PY  : Bağlantı Hatası: HTTPSConnectionPool(host='www.argos.co.uk', port=443): Max retries exceeded with url: /product/7912036?clickPR=plp:1:345 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1181cc610>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known')).  Proxy: None
+2023-04-16 17:16:59,505 : SCRAPER:PY  : Argos BeautifulSoup Hatası: 'NoneType' object has no attribute 'text'. URL: https://www.argos.co.uk/product/7912036?clickPR=plp:1:345
+2023-04-16 17:16:59,510 : SCRAPER:PY  : Bağlantı Hatası: HTTPSConnectionPool(host='www.argos.co.uk', port=443): Max retries exceeded with url: /product/8462372?clickPR=plp:2:38 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1181cc1c0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known')).  Proxy: None
+2023-04-16 17:16:59,510 : SCRAPER:PY  : Argos BeautifulSoup Hatası: 'NoneType' object has no attribute 'text'. URL: https://www.argos.co.uk/product/8462372?clickPR=plp:2:38
+2023-04-16 17:16:59,514 : SCRAPER:PY  : Bağlantı Hatası: HTTPSConnectionPool(host='www.argos.co.uk', port=443): Max retries exceeded with url: /product/9545171?clickCSR=slp:cannedSearch (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1181ccc70>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known')).  Proxy: None
+2023-04-16 17:16:59,514 : SCRAPER:PY  : Argos BeautifulSoup Hatası: 'NoneType' object has no attribute 'text'. URL: https://www.argos.co.uk/product/9545171?clickCSR=slp:cannedSearch
+2023-04-16 17:16:59,517 : SCRAPER:PY  : Bağlantı Hatası: HTTPSConnectionPool(host='www.amazon.co.uk', port=443): Max retries exceeded with url: /dp/B087VLP2RT (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1181cc8e0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known')).  Proxy: None
+2023-04-16 17:16:59,517 : SCRAPER:PY  : Amazon BeautifulSoup Hatası: 'NoneType' object has no attribute 'text'. URL: https://www.amazon.co.uk/dp/B087VLP2RT
+2023-04-16 17:16:59,521 : SCRAPER:PY  : Bağlantı Hatası: HTTPSConnectionPool(host='www.amazon.co.uk', port=443): Max retries exceeded with url: /dp/B094XXVVVQ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1181cc9d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known')).  Proxy: None
+2023-04-16 17:16:59,521 : SCRAPER:PY  : Amazon BeautifulSoup Hatası: 'NoneType' object has no attribute 'text'. URL: https://www.amazon.co.uk/dp/B094XXVVVQ
+2023-04-16 17:16:59,526 : SCRAPER:PY  : Bağlantı Hatası: HTTPSConnectionPool(host='www.amazon.co.uk', port=443): Max retries exceeded with url: /Bored-Lunch-Healthy-Fryer-Book/dp/1529903521 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1181ccc40>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known')).  Proxy: None
+2023-04-16 17:16:59,526 : SCRAPER:PY  : Amazon BeautifulSoup Hatası: 'NoneType' object has no attribute 'text'. URL: https://www.amazon.co.uk/Bored-Lunch-Healthy-Fryer-Book/dp/1529903521
+2023-04-16 17:16:59,530 : SCRAPER:PY  : Bağlantı Hatası: HTTPSConnectionPool(host='www.amazon.co.uk', port=443): Max retries exceeded with url: /Crocodile-Double-Waterproof-Bathroom-Swimming/dp/B09ZP6QNS1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1181ccc70>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known')).  Proxy: None
+2023-04-16 17:16:59,531 : SCRAPER:PY  : Amazon BeautifulSoup Hatası: 'NoneType' object has no attribute 'text'. URL: https://www.amazon.co.uk/Crocodile-Double-Waterproof-Bathroom-Swimming/dp/B09ZP6QNS1
+2023-04-16 17:16:59,568 : SCRAPER:PY  : Bağlantı Hatası: HTTPSConnectionPool(host='www.amazon.co.uk', port=443): Max retries exceeded with url: /ODLA-Flannel-Double-Washable-Pillows/dp/B0BK52QTNH (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1181cc8e0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known')).  Proxy: None
+2023-04-16 17:16:59,568 : SCRAPER:PY  : Amazon BeautifulSoup Hatası: 'NoneType' object has no attribute 'text'. URL: https://www.amazon.co.uk/ODLA-Flannel-Double-Washable-Pillows/dp/B0BK52QTNH
+2023-04-16 17:16:59,569 : SCRAPER:PY  : asdasdasd için scraper bulunmamakta..
+2023-04-16 17:40:15,628 : SCRAPER:PY  : https://www.bestsdwaywholesale.co.uk/product/440775-6 için scraper bulunmamakta..
+2023-04-16 17:40:16,824 : SCRAPER:PY  : HTTP Hatası: 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/803202-2. Proxy: None
+2023-04-16 17:40:16,825 : SCRAPER:PY  : Bestwaywholesale BeautifulSoup Hatası: 'NoneType' object has no attribute 'text'. URL: https://www.bestwaywholesale.co.uk/product/803202-2
+2023-04-16 17:55:49,519 : SCRAPER:PY  : Zaman Aşımı Hatası: HTTPSConnectionPool(host='www.bestway.co.uk', port=443): Read timed out. (read timeout=2).  Proxy: None
+2023-04-16 17:55:49,520 : SCRAPER:PY  : Bestwaywholesale BeautifulSoup Hatası: 'NoneType' object has no attribute 'text'. URL: https://www.bestwaywholesale.co.uk/product/341515-1
+2023-04-16 17:55:53,586 : SCRAPER:PY  : https://www.argos.couk/product/1021284 için scraper bulunmamakta..
+2023-04-16 17:56:21,036 : SCRAPER:PY  : asdasdasd için scraper bulunmamakta..
+2023-04-16 18:53:14,525 : SCRAPER:PY  : https://www.bestsdwaywholesale.co.uk/product/440775-6 için scraper bulunmamakta..
+2023-04-16 18:53:15,893 : SCRAPER:PY  : HTTP Hatası: 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/803202-2. Proxy: None
+2023-04-16 18:53:15,894 : SCRAPER:PY  : Bestwaywholesale BeautifulSoup Hatası: 'NoneType' object has no attribute 'text'. URL: https://www.bestwaywholesale.co.uk/product/803202-2
+2023-04-16 18:53:16,801 : SCRAPER:PY  : HTTP Hatası: 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/341515-1. Proxy: None
+2023-04-16 18:53:16,802 : SCRAPER:PY  : Bestwaywholesale BeautifulSoup Hatası: 'NoneType' object has no attribute 'text'. URL: https://www.bestwaywholesale.co.uk/product/341515-1
+2023-04-16 19:09:47,814 : SCRAPER:PY  : Zaman Aşımı Hatası: HTTPSConnectionPool(host='www.argos.co.uk', port=443): Read timed out. (read timeout=2).  Proxy: None
+2023-04-16 19:09:47,815 : SCRAPER:PY  : Argos BeautifulSoup Hatası: 'NoneType' object has no attribute 'text'. URL: https://www.argos.co.uk/product/9484799
+2023-04-16 19:09:47,815 : SCRAPER:PY  : https://www.argos.couk/product/1021284 için scraper bulunmamakta..
+2023-04-16 19:25:51,799 : SCRAPER:PY  : Zaman Aşımı Hatası: HTTPSConnectionPool(host='www.argos.co.uk', port=443): Read timed out. (read timeout=2).  Proxy: None
+2023-04-16 19:25:51,801 : SCRAPER:PY  : Argos BeautifulSoup Hatası: 'NoneType' object has no attribute 'text'. URL: https://www.argos.co.uk/product/8462372?clickPR=plp:2:38
+2023-04-16 19:41:48,210 : SCRAPER:PY  : Bağlantı Hatası: HTTPSConnectionPool(host='www.amazon.co.uk', port=443): Read timed out..  Proxy: None
+2023-04-16 19:41:48,212 : SCRAPER:PY  : Amazon BeautifulSoup Hatası: 'NoneType' object has no attribute 'text'. URL: https://www.amazon.co.uk/dp/B087VLP2RT
+2023-04-16 19:47:11,083 : SCRAPER:PY  : asdasdasd için scraper bulunmamakta..
+2023-04-16 19:53:17,627 : SCRAPER:PY  : https://www.bestsdwaywholesale.co.uk/product/440775-6 için scraper bulunmamakta..
+2023-04-16 19:53:18,824 : SCRAPER:PY  : HTTP Hatası: 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/803202-2. Proxy: None
+2023-04-16 19:53:18,825 : SCRAPER:PY  : Bestwaywholesale BeautifulSoup Hatası: 'NoneType' object has no attribute 'text'. URL: https://www.bestwaywholesale.co.uk/product/803202-2
+2023-04-16 19:53:19,739 : SCRAPER:PY  : HTTP Hatası: 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/341515-1. Proxy: None
+2023-04-16 19:53:19,739 : SCRAPER:PY  : Bestwaywholesale BeautifulSoup Hatası: 'NoneType' object has no attribute 'text'. URL: https://www.bestwaywholesale.co.uk/product/341515-1
+2023-04-16 19:53:23,310 : SCRAPER:PY  : https://www.argos.couk/product/1021284 için scraper bulunmamakta..
+2023-04-16 19:53:48,778 : SCRAPER:PY  : asdasdasd için scraper bulunmamakta..
+2023-04-16 20:05:28,771 : SCRAPER:PY  : https://www.bestsdwaywholesale.co.uk/product/440775-6 için scraper bulunmamakta..
+2023-04-16 20:05:29,837 : SCRAPER:PY  : HTTP Hatası: 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/803202-2. Proxy: None
+2023-04-16 20:05:30,733 : SCRAPER:PY  : HTTP Hatası: 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/341515-1. Proxy: None
+2023-04-16 20:05:34,257 : SCRAPER:PY  : https://www.argos.couk/product/1021284 için scraper bulunmamakta..
+2023-04-16 20:05:34,309 : SCRAPER:PY  : https://www.bestsdwaywholesale.co.uk/product/440775-6 için scraper bulunmamakta..
+2023-04-16 20:05:35,175 : SCRAPER:PY  : HTTP Hatası: 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/803202-2. Proxy: None
+2023-04-16 20:05:36,345 : SCRAPER:PY  : HTTP Hatası: 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/341515-1. Proxy: None
+2023-04-16 20:06:27,258 : SCRAPER:PY  : https://www.bestsdwaywholesale.co.uk/product/440775-6 için scraper bulunmamakta..
+2023-04-16 20:06:28,325 : SCRAPER:PY  : HTTP Hatası: 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/803202-2. Proxy: None
+2023-04-16 20:06:29,234 : SCRAPER:PY  : HTTP Hatası: 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/341515-1. Proxy: None
+2023-04-16 20:06:32,774 : SCRAPER:PY  : https://www.argos.couk/product/1021284 için scraper bulunmamakta..
+2023-04-16 20:06:36,852 : SCRAPER:PY  : https://www.bestsdwaywholesale.co.uk/product/440775-6 için scraper bulunmamakta..
+2023-04-16 20:07:00,415 : SCRAPER:PY  : https://www.bestsdwaywholesale.co.uk/product/440775-6 için scraper bulunmamakta..
+2023-04-16 20:07:01,347 : SCRAPER:PY  : HTTP Hatası: 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/803202-2. Proxy: None
+2023-04-16 20:07:02,358 : SCRAPER:PY  : HTTP Hatası: 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/341515-1. Proxy: None
+2023-04-16 20:07:06,234 : SCRAPER:PY  : https://www.argos.couk/product/1021284 için scraper bulunmamakta..
+2023-04-16 20:07:47,462 : SCRAPER:PY  : https://www.bestsdwaywholesale.co.uk/product/440775-6 için scraper bulunmamakta..
+2023-04-16 20:07:48,345 : SCRAPER:PY  : HTTP Hatası: 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/803202-2. Proxy: None
+2023-04-16 20:07:48,345 : SCRAPER:PY  : 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/803202-2
+2023-04-16 20:07:49,228 : SCRAPER:PY  : HTTP Hatası: 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/341515-1. Proxy: None
+2023-04-16 20:07:49,228 : SCRAPER:PY  : 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/341515-1
+2023-04-16 20:07:52,933 : SCRAPER:PY  : https://www.argos.couk/product/1021284 için scraper bulunmamakta..
+2023-04-16 20:08:18,359 : SCRAPER:PY  : asdasdasd için scraper bulunmamakta..
+2023-04-16 20:08:51,913 : SCRAPER:PY  : https://www.bestsdwaywholesale.co.uk/product/440775-6 için scraper bulunmamakta..
+2023-04-16 20:08:53,093 : SCRAPER:PY  : HTTP Hatası: 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/803202-2. Proxy: None
+2023-04-16 20:08:53,094 : SCRAPER:PY  : 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/803202-2
+2023-04-16 20:08:53,964 : SCRAPER:PY  : HTTP Hatası: 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/341515-1. Proxy: None
+2023-04-16 20:08:53,964 : SCRAPER:PY  : 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/341515-1
+2023-04-16 20:08:54,995 : SCRAPER:PY  : asdasd
+2023-04-16 20:08:56,579 : SCRAPER:PY  : asdasd
+2023-04-16 20:08:57,584 : SCRAPER:PY  : https://www.argos.couk/product/1021284 için scraper bulunmamakta..
+2023-04-16 20:08:57,983 : SCRAPER:PY  : asdasd
+2023-04-16 20:08:59,413 : SCRAPER:PY  : asdasd
+2023-04-16 20:09:00,868 : SCRAPER:PY  : asdasd
+2023-04-16 20:09:02,252 : SCRAPER:PY  : asdasd
+2023-04-16 20:09:28,508 : SCRAPER:PY  : while true block
+2023-04-16 20:09:28,517 : SCRAPER:PY  : https://www.bestsdwaywholesale.co.uk/product/440775-6 için scraper bulunmamakta..
+2023-04-16 20:09:29,402 : SCRAPER:PY  : HTTP Hatası: 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/803202-2. Proxy: None
+2023-04-16 20:09:29,403 : SCRAPER:PY  : 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/803202-2
+2023-04-16 20:09:30,275 : SCRAPER:PY  : HTTP Hatası: 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/341515-1. Proxy: None
+2023-04-16 20:09:30,275 : SCRAPER:PY  : 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/341515-1
+2023-04-16 20:09:31,334 : SCRAPER:PY  : asdasd
+2023-04-16 20:09:32,757 : SCRAPER:PY  : asdasd
+2023-04-16 20:09:33,757 : SCRAPER:PY  : https://www.argos.couk/product/1021284 için scraper bulunmamakta..
+2023-04-16 20:09:34,169 : SCRAPER:PY  : asdasd
+2023-04-16 20:10:10,309 : SCRAPER:PY  : while true block
+2023-04-16 20:10:10,318 : SCRAPER:PY  : https://www.bestsdwaywholesale.co.uk/product/440775-6 için scraper bulunmamakta..
+2023-04-16 20:10:11,209 : SCRAPER:PY  : HTTP Hatası: 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/803202-2. Proxy: None
+2023-04-16 20:10:11,209 : SCRAPER:PY  : 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/803202-2
+2023-04-16 20:10:12,192 : SCRAPER:PY  : HTTP Hatası: 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/341515-1. Proxy: None
+2023-04-16 20:10:12,193 : SCRAPER:PY  : 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/341515-1
+2023-04-16 20:10:13,199 : SCRAPER:PY  : asdasd
+2023-04-16 20:10:15,795 : SCRAPER:PY  : asdasd
+2023-04-16 20:10:16,801 : SCRAPER:PY  : https://www.argos.couk/product/1021284 için scraper bulunmamakta..
+2023-04-16 20:10:17,308 : SCRAPER:PY  : asdasd
+2023-04-16 20:10:18,876 : SCRAPER:PY  : asdasd
+2023-04-16 20:10:20,388 : SCRAPER:PY  : asdasd
+2023-04-16 20:10:21,881 : SCRAPER:PY  : asdasd
+2023-04-16 20:10:54,610 : SCRAPER:PY  : while true block
+2023-04-16 20:10:54,614 : SCRAPER:PY  : https://www.bestsdwaywholesale.co.uk/product/440775-6 için scraper bulunmamakta..
+2023-04-16 20:10:55,498 : SCRAPER:PY  : HTTP Hatası: 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/803202-2. Proxy: None
+2023-04-16 20:10:55,499 : SCRAPER:PY  : 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/803202-2
+2023-04-16 20:10:56,756 : SCRAPER:PY  : HTTP Hatası: 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/341515-1. Proxy: None
+2023-04-16 20:10:56,756 : SCRAPER:PY  : 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/341515-1
+2023-04-16 20:10:57,785 : SCRAPER:PY  : asdasd
+2023-04-16 20:10:59,272 : SCRAPER:PY  : asdasd
+2023-04-16 20:11:00,272 : SCRAPER:PY  : https://www.argos.couk/product/1021284 için scraper bulunmamakta..
+2023-04-16 20:11:00,692 : SCRAPER:PY  : asdasd
+2023-04-16 20:11:02,108 : SCRAPER:PY  : asdasd
+2023-04-16 20:11:03,534 : SCRAPER:PY  : asdasd
+2023-04-16 20:11:05,028 : SCRAPER:PY  : asdasd
+2023-04-16 20:11:08,885 : SCRAPER:PY  : asdasd
+2023-04-16 20:11:12,775 : SCRAPER:PY  : asdasd
+2023-04-16 20:11:16,651 : SCRAPER:PY  : asdasd
+2023-04-16 20:11:41,994 : SCRAPER:PY  : while true block
+2023-04-16 20:11:41,998 : SCRAPER:PY  : https://www.bestsdwaywholesale.co.uk/product/440775-6 için scraper bulunmamakta..
+2023-04-16 20:11:42,967 : SCRAPER:PY  : HTTP Hatası: 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/803202-2. Proxy: None
+2023-04-16 20:11:42,968 : SCRAPER:PY  : 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/803202-2
+2023-04-16 20:11:43,846 : SCRAPER:PY  : HTTP Hatası: 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/341515-1. Proxy: None
+2023-04-16 20:11:43,846 : SCRAPER:PY  : 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/341515-1
+2023-04-16 20:11:45,155 : SCRAPER:PY  : asdasd
+2023-04-16 20:12:59,394 : SCRAPER:PY  : https://www.bestsdwaywholesale.co.uk/product/440775-6 için scraper bulunmamakta..
+2023-04-16 20:13:00,448 : SCRAPER:PY  : HTTP Hatası: 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/803202-2. Proxy: None
+2023-04-16 20:13:00,448 : SCRAPER:PY  : 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/803202-2
+2023-04-16 20:13:01,360 : SCRAPER:PY  : HTTP Hatası: 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/341515-1. Proxy: None
+2023-04-16 20:13:01,360 : SCRAPER:PY  : 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/341515-1
+2023-04-16 20:13:04,894 : SCRAPER:PY  : https://www.argos.couk/product/1021284 için scraper bulunmamakta..
+2023-04-16 20:13:30,680 : SCRAPER:PY  : asdasdasd için scraper bulunmamakta..
+2023-04-16 20:15:31,490 : SCRAPER:PY  : https://www.bestsdwaywholesale.co.uk/product/440775-6 için scraper bulunmamakta..
+2023-04-16 20:15:32,661 : SCRAPER:PY  : HTTP Hatası: 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/803202-2. Proxy: None
+2023-04-16 20:15:33,547 : SCRAPER:PY  : HTTP Hatası: 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/341515-1. Proxy: None
+2023-04-16 20:15:36,971 : SCRAPER:PY  : https://www.argos.couk/product/1021284 için scraper bulunmamakta..
+2023-04-16 20:16:01,960 : SCRAPER:PY  : asdasdasd için scraper bulunmamakta..
+2023-04-16 20:16:37,084 : SCRAPER:PY  : https://www.bestsdwaywholesale.co.uk/product/440775-6 için scraper bulunmamakta..
+2023-04-16 20:16:37,993 : SCRAPER:PY  : HTTP Hatası: 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/803202-2. Proxy: None
+2023-04-16 20:16:38,894 : SCRAPER:PY  : HTTP Hatası: 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/341515-1. Proxy: None
+2023-04-16 20:16:42,455 : SCRAPER:PY  : https://www.argos.couk/product/1021284 için scraper bulunmamakta..
+2023-04-16 20:17:08,394 : SCRAPER:PY  : asdasdasd için scraper bulunmamakta..
+2023-04-17 16:24:10,695 : UPDATER:PY  :  Dosya Okuma Hatası :RESULT.csv 
+2023-04-17 16:30:50,937 : UPDATER:PY  :  Dosya Okuma Hatası :RESULT.csv ERR: [Errno 2] No such file or directory: 'RESULT.csv'
+2023-04-17 16:32:35,974 : UPDATER:PY  :  Dosya Okuma Hatası :RESULT.csv ERR: [Errno 2] No such file or directory: 'RESULT.csv'
+2023-04-17 16:36:00,144 : UPDATER:PY  :  Sütun adı hatalı  ERR: 'Runtime DateTime'
+2023-04-17 16:39:40,251 : UPDATER:PY  :  Değer hatası :RESULT.csv ERR: could not convert string to float: '#corePriceDisplay_desktop_feature_div > d'
+2023-04-17 16:41:25,549 : UPDATER:PY  :  Değer hatası  ERR: could not convert string to float: '#corePriceDisplay_desktop_feature_div > d',ERR: ("could not convert string to float: '#corePriceDisplay_desktop_feature_div > d'",),ERR: could not convert string to float: '#corePriceDisplay_desktop_feature_div > d'
+2023-04-17 16:52:21,416 : UPDATER:PY  :  ERR: ufunc 'add' did not contain a loop with signature matching types (dtype('<U1'), dtype('float64')) -> None
+2023-04-17 16:53:54,395 : UPDATER:PY  :  ERR: ufunc 'add' did not contain a loop with signature matching types (dtype('<U1'), dtype('float64')) -> None
+2023-04-17 16:56:35,728 : UPDATER:PY  :  Değer hatası  ERR: could not convert string to float: '0      91.55\n1      82.65\n2      76.25\n3       2.19\n4       3.41\n5      74.97\n6      94.64\n7      97.39\n8       1.20\n9      91.45\n10     82.60\n11     16.49\n12     16.11\n13      2.19\n14      5.99\n15      5.41\n16      2.34\n17    150.00\n18     91.55\n19      1.79\n20     76.25\n21     18.71\n22      3.41\n23      5.99\n24      1.20\n25     16.49\n26     13.37\n27      1.79\n28    299.00\n29     11.00\n30     90.05\n31      5.94\n32     97.98\n33     18.71\n34     97.98\n35     94.64\n36     97.39\n37     11.92\n38     79.99\n39     51.47\n40     91.45\n41     41.31\n42     59.66\n43     35.96\n44     82.60\n45     94.08\n46     13.37\n47      5.41\n48     18.70\n49    570.85\n50      2.35\n51     23.00\n52    299.00\n53    150.00\n54     11.00\n55     38.98\n56     79.99\n57      9.49\n58     14.99\n59    570.85\nName: Price, dtype: float64'
+2023-04-17 16:58:00,962 : UPDATER:PY  :  Değer hatası  ERR: could not convert string to float: '0      91.55\n1      82.65\n2      76.25\n3       2.19\n4       3.41\n5      74.97\n6      94.64\n7      97.39\n8       1.20\n9      91.45\n10     82.60\n11     16.49\n12     16.11\n13      2.19\n14      5.99\n15      5.41\n16      2.34\n17    150.00\n18     91.55\n19      1.79\n20     76.25\n21     18.71\n22      3.41\n23      5.99\n24      1.20\n25     16.49\n26     13.37\n27      1.79\n28    299.00\n29     11.00\n30     90.05\n31      5.94\n32     97.98\n33     18.71\n34     97.98\n35     94.64\n36     97.39\n37     11.92\n38     79.99\n39     51.47\n40     91.45\n41     41.31\n42     59.66\n43     35.96\n44     82.60\n45     94.08\n46     13.37\n47      5.41\n48     18.70\n49    570.85\n50      2.35\n51     23.00\n52    299.00\n53    150.00\n54     11.00\n55     38.98\n56     79.99\n57      9.49\n58     14.99\n59    570.85\nName: Price, dtype: float64'
+2023-04-17 17:21:09,138 : SCRAPER:PY  : Scraper Bulunamadı : https://www.bestsdwaywholesale.co.uk/product/440775-6 
+2023-04-17 17:21:09,140 : SCRAPER:PY  : Scraper Bulunamadı : https://www.argos.couk/product/1021284 
+2023-04-17 17:21:09,141 : SCRAPER:PY  : Scraper Bulunamadı : asdasdasd 
+2023-04-17 17:22:38,480 : SCRAPER:PY  : Scraper Bulunamadı : https://www.bestsdwaywholesale.co.uk/product/440775-6 
+2023-04-17 17:22:38,482 : SCRAPER:PY  : Scraper Bulunamadı : https://www.argos.couk/product/1021284 
+2023-04-17 17:22:38,483 : SCRAPER:PY  : Scraper Bulunamadı : asdasdasd 
+2023-04-17 17:24:27,049 : SCRAPER:PY  : Scraper Bulunamadı : https://www.bestsdwaywholesale.co.uk/product/440775-6 
+2023-04-17 17:24:27,050 : SCRAPER:PY  : Scraper Bulunamadı : https://www.argos.couk/product/1021284 
+2023-04-17 17:24:27,051 : SCRAPER:PY  : Scraper Bulunamadı : asdasdasd 
+2023-04-17 17:25:16,623 : SCRAPER:PY  : Scraper Bulunamadı : https://www.bestsdwaywholesale.co.uk/product/440775-6 
+2023-04-17 17:25:16,625 : SCRAPER:PY  : Scraper Bulunamadı : https://www.argos.couk/product/1021284 
+2023-04-17 17:25:16,626 : SCRAPER:PY  : Scraper Bulunamadı : asdasdasd 
+2023-04-17 17:27:25,237 : SCRAPER:PY  : Scraper Bulunamadı : https://www.bestsdwaywholesale.co.uk/product/440775-6 
+2023-04-17 17:27:25,239 : SCRAPER:PY  : Scraper Bulunamadı : https://www.argos.couk/product/1021284 
+2023-04-17 17:27:25,240 : SCRAPER:PY  : Scraper Bulunamadı : asdasdasd 
+2023-04-17 17:30:23,400 : SCRAPER:PY  : Scraper Bulunamadı : https://www.bestsdwaywholesale.co.uk/product/440775-6 
+2023-04-17 17:33:22,107 : SCRAPER:PY  : Scraper Bulunamadı : https://www.argos.couk/product/1021284 
+2023-04-17 17:34:32,750 : SCRAPER:PY  : Scraper Bulunamadı : https://www.bestsdwaywholesale.co.uk/product/440775-6 
+2023-04-17 17:34:32,751 : SCRAPER:PY  : Scraper Bulunamadı : https://www.argos.couk/product/1021284 
+2023-04-17 17:34:32,753 : SCRAPER:PY  : Scraper Bulunamadı : asdasdasd 
+2023-04-17 17:55:34,452 : SCRAPER:PY  : Scraper Bulunamadı : https://www.bestsdwaywholesale.co.uk/product/440775-6 
+2023-04-17 17:55:35,610 : SCRAPER:PY  : HTTP Hatası: 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/803202-2. Proxy: None
+2023-04-17 17:55:36,411 : SCRAPER:PY  : HTTP Hatası: 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/341515-1. Proxy: None
+2023-04-17 17:55:39,634 : SCRAPER:PY  : HTTP Hatası: 403 Client Error: Forbidden for url: https://www.argos.co.uk/product/9484799. Proxy: None
+2023-04-17 17:55:39,634 : SCRAPER:PY  : Scraper Bulunamadı : https://www.argos.couk/product/1021284 
+2023-04-17 17:55:40,226 : SCRAPER:PY  : HTTP Hatası: 403 Client Error: Forbidden for url: https://www.argos.co.uk/product/1021284. Proxy: None
+2023-04-17 17:55:40,415 : SCRAPER:PY  : HTTP Hatası: 403 Client Error: Forbidden for url: https://www.argos.co.uk/product/7912036?clickPR=plp:1:345. Proxy: None
+2023-04-17 17:55:40,620 : SCRAPER:PY  : HTTP Hatası: 403 Client Error: Forbidden for url: https://www.argos.co.uk/product/8462372?clickPR=plp:2:38. Proxy: None
+2023-04-17 17:55:40,820 : SCRAPER:PY  : HTTP Hatası: 403 Client Error: Forbidden for url: https://www.argos.co.uk/product/9545171?clickCSR=slp:cannedSearch. Proxy: None
+2023-04-17 17:55:41,048 : SCRAPER:PY  : HTTP Hatası: 503 Server Error: Service Unavailable for url: https://www.amazon.co.uk/dp/B087VLP2RT. Proxy: None
+2023-04-17 17:55:41,269 : SCRAPER:PY  : HTTP Hatası: 503 Server Error: Service Unavailable for url: https://www.amazon.co.uk/dp/B094XXVVVQ. Proxy: None
+2023-04-17 17:55:41,474 : SCRAPER:PY  : HTTP Hatası: 503 Server Error: Service Unavailable for url: https://www.amazon.co.uk/Bored-Lunch-Healthy-Fryer-Book/dp/1529903521. Proxy: None
+2023-04-17 17:55:41,687 : SCRAPER:PY  : HTTP Hatası: 503 Server Error: Service Unavailable for url: https://www.amazon.co.uk/Crocodile-Double-Waterproof-Bathroom-Swimming/dp/B09ZP6QNS1. Proxy: None
+2023-04-17 17:55:41,900 : SCRAPER:PY  : HTTP Hatası: 503 Server Error: Service Unavailable for url: https://www.amazon.co.uk/ODLA-Flannel-Double-Washable-Pillows/dp/B0BK52QTNH. Proxy: None
+2023-04-17 17:55:41,901 : SCRAPER:PY  : Scraper Bulunamadı : asdasdasd 
+2023-04-17 18:05:23,444 : SCRAPER:PY  : Scraper Bulunamadı : https://www.bestsdwaywholesale.co.uk/product/440775-6 
+2023-04-17 18:05:24,456 : SCRAPER:PY  : HTTP Hatası: 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/803202-2. Proxy: None
+2023-04-17 18:05:25,272 : SCRAPER:PY  : HTTP Hatası: 404 Client Error: Not Found for url: https://www.bestwaywholesale.co.uk/product/341515-1. Proxy: None
+2023-04-17 18:05:28,673 : SCRAPER:PY  : Scraper Bulunamadı : https://www.argos.couk/product/1021284 
+2023-04-17 18:05:53,985 : SCRAPER:PY  : Scraper Bulunamadı : asdasdasd 

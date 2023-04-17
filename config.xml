@@ -1,0 +1,25 @@
+<configurations>
+  <limits>
+    <max_product>15</max_product>
+    <frequency>1</frequency>
+    <run_period>60</run_period>
+  </limits>
+  <file_name>
+    <input_file>PRODUCTS.csv</input_file>
+    <output_file>RESULT.csv</output_file>
+  </file_name>
+  <request_settings>
+    <header>
+        <dnt>1</dnt>
+        <upgrade-insecure-requests>1</upgrade-insecure-requests>
+        <user-agent>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36</user-agent>
+        <accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9</accept>
+        <sec-fetch-site>same-origin</sec-fetch-site>
+        <sec-fetch-mode>navigate</sec-fetch-mode>
+        <sec-fetch-user>?1</sec-fetch-user>
+        <sec-fetch-dest>document</sec-fetch-dest>
+        <accept-language>en-GB,en-US;q=0.9,en;q=0.8</accept-language>
+    </header>
+    <timeout>2</timeout>
+  </request_settings>
+</configurations>
